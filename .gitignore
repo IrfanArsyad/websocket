@@ -1,0 +1,4 @@
+/node_modules
+/php/vendor
+/php/vendor/*.lock
+/*.lock
